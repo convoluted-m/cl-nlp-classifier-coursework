@@ -12,4 +12,4 @@ This repository contains the code written for the LELA60331 coursework and docum
 
 ## Running the code
 
-Open `sentiment-classifier.ipynb` in Google Colab or JupyterLab with a kernel version of `3.11` - run each cell sequentially, following the code annotaions as guidance.
+Open `sentiment-classifier.ipynb` in Google Colab or JupyterLab with a kernel version of `3.11` - run each cell sequentially, following the code annotations as guidance.
